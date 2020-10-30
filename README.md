@@ -14,7 +14,7 @@ For example:
 ## test
 go test -v ./
 go test -v -run M1
-
+go test -v -run M2
 ## build
 go build -o temp
 
